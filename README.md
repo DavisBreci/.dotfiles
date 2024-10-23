@@ -1,4 +1,4 @@
-#My Dotfiles
+## My Dotfiles
 These are my dotfile config files
 ## nanorc
 These are my custom configs for nano
